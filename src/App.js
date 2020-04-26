@@ -5,7 +5,7 @@ import SearchBook from './SearchBook/SearchBook';
 import FilterBook from './FilterBook/FilterBook';
 
 
-const apiKey = 'AIzaSyCWz-P6hTzQdOTwr5pmULTVD764xGuwdLM';
+const apiKey = 'AIzaSyCWz-P6hTzQdOTwr5pmULTVD764xGuwdLM'; // move it from here
 
 class App extends React.Component {
   constructor(props) {
